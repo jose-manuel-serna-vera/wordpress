@@ -1,0 +1,77 @@
+# Translation of Plugins - First payment date for WooCommerce Subscriptions - Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - First payment date for WooCommerce Subscriptions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-23 03:59:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - First payment date for WooCommerce Subscriptions - Stable (latest release)\n"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:146
+#: first-payment-date-for-woocommerce-subscriptions.php:196
+msgid "First day next year"
+msgstr "Primer día del próximo año"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:145
+#: first-payment-date-for-woocommerce-subscriptions.php:195
+msgid "First day next month"
+msgstr "Primer día del próximo mes"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:143
+#: first-payment-date-for-woocommerce-subscriptions.php:183
+#: first-payment-date-for-woocommerce-subscriptions.php:193
+msgid "First payment date"
+msgstr "Fecha del primer pago"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:134
+#: first-payment-date-for-woocommerce-subscriptions.php:185
+msgid "Set the date when the first payment of this subscription has to be done."
+msgstr "Establece la fecha en la que debe realizarse el primer pago de esta suscripción."
+
+#: first-payment-date-for-woocommerce-subscriptions.php:133
+msgid "Fixed first payment date"
+msgstr "Fecha fija del primer pago"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:125
+#: first-payment-date-for-woocommerce-subscriptions.php:174
+msgid "Calculated day"
+msgstr "Día calculado"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:124
+#: first-payment-date-for-woocommerce-subscriptions.php:173
+msgid "Fixed date"
+msgstr "Fecha fija"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:123
+#: first-payment-date-for-woocommerce-subscriptions.php:172
+msgid "Use standard trial period"
+msgstr "Usar el período de prueba estándar"
+
+#: first-payment-date-for-woocommerce-subscriptions.php:121
+#: first-payment-date-for-woocommerce-subscriptions.php:170
+msgid "First payment date type"
+msgstr "Tipo de fecha del primer pago"
+
+#. Author URI of the plugin
+msgid "https://codection.com"
+msgstr "https://codection.com"
+
+#. Author of the plugin
+msgid "Codection"
+msgstr "Codection"
+
+#. Description of the plugin
+msgid "This plugin allows you to set a first payment date for a subscription, using WooCommerce Subscriptions. So you will be able to set a specific date (not a generic trial period) for each product"
+msgstr "Este plugin te permite establecer una fecha para el primer de pago de una suscripción, usando WooCommerce Subscriptions. De modo que podrás establecer una fecha específica (no un período de prueba genérico) para cada producto"
+
+#. Plugin URI of the plugin
+msgid "https://codection.com/first-payment-date-for-wooCommerce-subscriptions"
+msgstr "https://codection.com/first-payment-date-for-wooCommerce-subscriptions"
+
+#. Plugin Name of the plugin
+msgid "First payment date for WooCommerce Subscriptions"
+msgstr "First payment date for WooCommerce Subscriptions"

@@ -1,0 +1,6 @@
+2022-03-05T01:28:18+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string + string in C:\xampp\htdocs\wordpress\wp-content\plugins\mi-plugin\includes\menu\principal.php:22
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\admin.php(293): include()
+#1 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\mi-plugin\includes\menu\principal.php en la línea 22
+

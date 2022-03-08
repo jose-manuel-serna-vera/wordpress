@@ -1,0 +1,9 @@
+2022-03-04T23:21:47+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "cn_generar_pagina" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-admin\admin.php(259): do_action('settings_page_c...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\options-general.php(10): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php en la línea 307
+
